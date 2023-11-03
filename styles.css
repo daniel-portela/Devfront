@@ -32,8 +32,6 @@ hr {
     margin: 0 auto;
 }
 
-/* header */
-
 #nav-bar ul li a {
     text-decoration: none;
 }
@@ -60,8 +58,6 @@ hr {
 .web-name h1 {
     color: #cbd8fb;
 }
-
-/******* js related styling *****/
 
 .times-btn {
     display: none;
@@ -97,13 +93,9 @@ hr {
     text-decoration: underline;
 }
 
-/* social -icons */
-
 .social-icons {
     display: none;
 }
-
-/* banner */
 
 .banner {
     min-height: auto;
@@ -120,7 +112,7 @@ hr {
 }
 
 .banner-main-content h2 {
-    font-size: 2rem;
+    font-size: 1.7rem;
     font-family: var(--heading);
 }
 
